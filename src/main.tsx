@@ -26,7 +26,7 @@ function initCity() {
   controls.enableZoom = true;
   controls.minDistance = 100;
   controls.maxDistance = 2000;
-  controls.maxPolarAngle = Math.PI / 2; //
+  controls.maxPolarAngle = Math.PI / 2;
 
   initCityModel(scene);
   function start() {
