@@ -46,3 +46,6 @@ function initCity() {
 function init() {
   initCity();
 }
+
+
+console.log(11)
